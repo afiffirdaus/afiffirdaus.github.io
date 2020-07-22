@@ -1,10 +1,10 @@
 ---
 layout: post
-author: John Doe
+author: Afif Firdaus
 title: Netlify CMS created this Article
-date: 2020-05-23T09:52:20.613Z
+date: 2020-07-23T09:52:20.613Z
 thumbnail: /assets/img/posts/hello.jpg
-category: jekyll
+category: makrdown
 summary: Demo Content using Netlify CMS
 ---
 # Hello World ,
