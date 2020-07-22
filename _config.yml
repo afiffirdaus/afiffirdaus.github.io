@@ -17,8 +17,8 @@ urls:
     #   url : /shop
     - text: Contact Me
       url : /contact
-     - text: Resume
-       url: https://afiffirdaus.github.io/afifcv/
+    - text: Resume
+      url: https://afiffirdaus.github.io/afifcv/
     # - text: Get Started
     #   url: /get-started
 
