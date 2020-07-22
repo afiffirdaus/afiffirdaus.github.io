@@ -37,13 +37,13 @@ author_work_experiences:
               company_logo: averis.png
               company_url: https://www.averis.biz/
               designation: Desktop Analyst/Engineer
-              description: <ul class="resume-item-list"><li>	Support Desktop / Helpdesk team on daily ticket items, troubleshoot BAU issues like login problems, repair / replace IP Phone, mouse, keyboard RAM, Display, etc.</li><li>	Involved in internal improvement projects to streamline BAU processes for the daily IT operations. </li><li>•	Involved in all the internal process of IT asset deploying and tracking</li></ul>
+              description: Support Desktop / Helpdesk team on daily ticket items, troubleshoot BAU issues like login problems, repair / replace IP Phone, mouse, keyboard RAM, Display, etc.
               visibility: true
             - company_name: Malaysia Nuclear Agency
               company_logo: nuclear.png
               company_url: http://www.nuclearmalaysia.gov.my/
               designation: Junior Engineer
-              description: <ul class="resume-item-list"><li>	Assist engineer to maintain optimum performance of a certain engineering system design.</li><li> Identify and distinguish engineering concerns. Finally, create solutions to these concerns. </li></ul>
+              description: Assist engineer to maintain optimum performance of a certain engineering system design.
               visibility: true
 
 author_education_details:
