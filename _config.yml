@@ -37,21 +37,21 @@ author_work_experiences:
               company_logo: averis.png
               company_url: https://www.averis.biz/
               designation: Desktop Analyst/Engineer
-              description: Worked on various Google Products
+              description: <ul class="resume-item-list"><li>	Support Desktop / Helpdesk team on daily ticket items, troubleshoot BAU issues like login problems, repair / replace IP Phone, mouse, keyboard RAM, Display, etc.</li><li>	Involved in internal improvement projects to streamline BAU processes for the daily IT operations. </li><li>•	Involved in all the internal process of IT asset deploying and tracking</li></ul>
               visibility: true
             - company_name: Malaysia Nuclear Agency
               company_logo: nuclear.png
               company_url: http://www.nuclearmalaysia.gov.my/
               designation: Junior Engineer
-              description: Worked on various Azure Cloud Products
+              description: <ul class="resume-item-list"><li>	Assist engineer to maintain optimum performance of a certain engineering system design.</li><li> Identify and distinguish engineering concerns. Finally, create solutions to these concerns. </li></ul>
               visibility: true
 
 author_education_details:
-              - college_logo: mit.png
-                college_name: MIT
-                college_url: https://mit.org
-                college_degree: CS Engineer
-                description: Bachelor of Technology
+              - college_logo: uitm.png
+                college_name: UiTM
+                college_url: https://www.uitm.edu.my/index.php/en/
+                college_degree: Information System Engineering
+                description: Bachelor of Information Technology (Hons)
                 visibility: true
 
 author_project_details:
@@ -67,30 +67,30 @@ author_project_details:
                 visibility: true
 
 # social links
-twitter_username: johndoe
-github_username:  sujaykundu777
-facebook_username: johndoe
-linkedin_username: johndoe
-behance_username: johndoe
-instagram_username: johndoe
-medium_username: johndoe
-telegram_username: johndoe
-dribbble_username: johndoe
-flickr_username: johndoe
+twitter_username: afpetak
+github_username:  afiffirdaus
+facebook_username: afif firdaus
+linkedin_username: afif firdaus
+# behance_username: johndoe
+instagram_username: afpetak
+# medium_username: johndoe
+telegram_username: afpetak
+# dribbble_username: johndoe
+# flickr_username: johndoe
 
 #for comments ( we got Disqus and Hyvor Commenting, uncomment the one you want to use )
 
-# disqus_shortname: sujay-kundu
-hyvor_talk_website_id: 476
+# # disqus_shortname: sujay-kundu
+# hyvor_talk_website_id: 476
 
-# wakatime username (coding activity)
-wakatime_username: sujaykundu777
+# # wakatime username (coding activity)
+# wakatime_username: sujaykundu777
 
-# mailchimp embedded form url (newsletter):
-mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
+# # mailchimp embedded form url (newsletter):
+# mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
 
-# formspree (contact form)
-formspree_email: johndoe@gmail.com
+# # formspree (contact form)
+# formspree_email: johndoe@gmail.com
 
 # syntax highlighter
 markdown: kramdown
