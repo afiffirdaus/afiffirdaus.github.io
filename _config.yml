@@ -43,7 +43,7 @@ author_work_experiences:
               company_logo: nuclear.png
               company_url: http://www.nuclearmalaysia.gov.my/
               designation: Junior Engineer
-              description: Assist engineer to maintain optimum performance of a certain engineering system design.
+              description: <ul class="resume-item-list"><li>	Assist engineer to maintain optimum performance of a certain engineering system design.</li><li> Identify and distinguish engineering concerns. Finally, create solutions to these concerns. </li></ul>
               visibility: true
 
 author_education_details:
