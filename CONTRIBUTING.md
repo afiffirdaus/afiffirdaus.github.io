@@ -1,4 +1,4 @@
-## Contributions:
+<!-- ## Contributions:
 
 Contributions are more than just welcome. Fork this repo and create a new branch, then submit a pull request
 
@@ -13,4 +13,4 @@ Contributions are more than just welcome. Fork this repo and create a new branch
 - 4.Push to the branch
 `git push origin my-new-feature`
 
-- 5.Create new Pull Request
+- 5.Create new Pull Request -->
