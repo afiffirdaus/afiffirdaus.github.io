@@ -1,11 +1,11 @@
 source "https://rubygems.org"
 
-gem 'jekyll', '~> 4.0.0'
-gem 'bundler'
-gem 'kramdown'
-gem 'rack-jekyll'
-gem 'rake'
-gem 'puma'
+# gem 'jekyll', '~> 4.0.0'
+# gem 'bundler'
+# gem 'kramdown'
+# gem 'rack-jekyll'
+# gem 'rake'
+# gem 'puma'
 
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
